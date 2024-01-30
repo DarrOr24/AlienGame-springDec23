@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(208, 199, 206);
+  color:rgb(38, 39, 42);
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.barbie{
+  background-color: rgb(238, 197, 230);
+  color:rgb(105, 10, 178);
+}
+
+.retro{
+  background-color: rgb(35, 34, 34);
+  /* background-image: url("vintage.png"); */
+  color:white;
+}
+
+.board-container {
+  margin: auto;
+  border: 0.0625em solid gray;
+  margin-top:0.325em;
+  margin-bottom: 0.325em; 
+}
+
+.cell { 
+  width: 1.6em;
+  height: 1.6em;
+}
+
+.ground {
+  background-color: darkred;
+}
+
+.hide {
+  display: none
+}
+
+.button {
+  background-color: rgba(165, 130, 149, 0.966);
+  margin-top: 0.19em;
+  margin-bottom: 0.19em;
+  height: 1.875em;
+  border-radius: 1.25em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  cursor: pointer;
+}
+
+.top{
+  height: 3.125em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(220, 222, 240);
+  color: black;
+  border-radius: 0.3125em;
+  margin: 0.16em;
+}
+
+.key-map-btn{
+  background-color: rgb(220, 222, 240);
+}
+
+.key-map{
+  font-size: 0.9em;
+  color: black;
+  width: 21.875em;
+  background-color: rgb(220, 222, 240);
+  margin: auto;
+  margin-top: 0.16em;
+  border-radius: 1.25em;
+  border: 0.125em solid black;
+}
+
+.settings{ 
+  color: rgb(126, 120, 120);
+}
+
+.settings-btn{
+  background-color: lightgrey;
+}
+
+.selected {
+  background-color: rgb(183, 178, 229);
+}
