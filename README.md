@@ -9,7 +9,5 @@ The goal was to implement game logic and interactivity purely through JavaScript
 
 <img src="https://github.com/user-attachments/assets/734ebe02-6d0c-45c1-a481-b150a322769e" width="400">
 
-<video width="400" controls>
-  <source src="https://github.com/user-attachments/assets/c3738d03-0ca2-4c92-908a-5f4f4d6ae41f" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/49e22234-c250-463e-a16c-b6b6b6f3482f
+
