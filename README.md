@@ -9,5 +9,5 @@ The goal was to implement game logic and interactivity purely through JavaScript
 
 <img src="https://github.com/user-attachments/assets/734ebe02-6d0c-45c1-a481-b150a322769e" width="400">
 
-https://github.com/user-attachments/assets/49e22234-c250-463e-a16c-b6b6b6f3482f
+
 
