@@ -1,6 +1,6 @@
 **80's Alien Game**
 
-![image](https://github.com/user-attachments/assets/734ebe02-6d0c-45c1-a481-b150a322769e)
+<img src="https://github.com/user-attachments/assets/734ebe02-6d0c-45c1-a481-b150a322769e" width="400">
 
 
 This project was my first assignment in the Coding Academy course, where we were tasked with building a classic 80's alien invasion game using only vanilla JavaScript and basic CSS. 
